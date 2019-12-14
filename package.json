@@ -1,0 +1,29 @@
+{
+  "name": "shoppingcart-services",
+  "version": "1.0.0",
+  "description": "Angular Shopping Cart Servicess using Node.js",
+  "main": "src/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopalreddy/shoppingcart-services.git"
+  },
+  "keywords": [
+    "Cart",
+    "Service",
+    "Shopping",
+    "Cart",
+    "Services"
+  ],
+  "author": "Venugopal Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopalreddy/shoppingcart-services/issues"
+  },
+  "homepage": "https://github.com/gopalreddy/shoppingcart-services#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
